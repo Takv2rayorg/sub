@@ -1,6 +1,6 @@
 [
 {
-  "remarks": "7²3@Takv2ray_org | DE ”9“9”9”0",
+  "remarks": "@Takv2ray_org | DE 🇩🇪",
   "log": {
     "loglevel": "warning"
   },
@@ -593,7 +593,7 @@
   }
 },
 {
-  "remarks": "7²3@Takv2ray_org | DE ”9“9”9”0",
+  "remarks": "@Takv2ray_org | DE 🇩🇪",
   "log": {
     "loglevel": "warning"
   },
@@ -777,7 +777,7 @@
   "stats": {}
 },
 {
-  "remarks": "7²3@Takv2ray_org | NL ”9”9”9”7",
+  "remarks": "@Takv2ray_org | NL 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -954,7 +954,7 @@
   "stats": {}
 },
 {
-  "remarks": "7²3@Takv2ray_org | NL ”9”9”9”7",
+  "remarks": "@Takv2ray_org | NL 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -1131,7 +1131,7 @@
   "stats": {}
 },
 {
-  "remarks": "7²3@Takv2ray_org | iR ”9”4”9•3",
+  "remarks": "@Takv2ray_org | IR 🇮🇷",
   "log": {
     "loglevel": "warning"
   },
@@ -1304,3 +1304,4 @@
   "stats": {}
 }
 ]
+
