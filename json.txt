@@ -1,6 +1,6 @@
 [
 {
-  "remarks": "@Takv2ray_org | DE 🇩🇪",
+  "remarks": "⚡️@Takv2ray_org | DE 🇩🇪",
   "log": {
     "loglevel": "warning"
   },
@@ -593,7 +593,7 @@
   }
 },
 {
-  "remarks": "@Takv2ray_org | DE 🇩🇪",
+  "remarks": "⚡@Takv2ray_org | DE 🇩🇪",
   "log": {
     "loglevel": "warning"
   },
@@ -777,7 +777,7 @@
   "stats": {}
 },
 {
-  "remarks": "@Takv2ray_org | NL 🇳🇱",
+  "remarks": "⚡@Takv2ray_org | NL 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -954,7 +954,7 @@
   "stats": {}
 },
 {
-  "remarks": "@Takv2ray_org | NL 🇳🇱",
+  "⚡@Takv2ray_org | NL 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -1131,7 +1131,7 @@
   "stats": {}
 },
 {
-  "remarks": "@Takv2ray_org | IR 🇮🇷",
+  "remarks": "⚡@Takv2ray_org | IR 🇮🇷",
   "log": {
     "loglevel": "warning"
   },
@@ -1304,4 +1304,5 @@
   "stats": {}
 }
 ]
+
 
