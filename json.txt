@@ -256,7 +256,7 @@
   }
 },
 {
-  "remarks": "⚡@Takv2ray_org | DE 🇩🇪",
+  "remarks": "⚡@TAKV2RAYNET | DE 🇩🇪",
   "log": {
     "loglevel": "warning"
   },
@@ -428,7 +428,7 @@
   "stats": {}
 },
 {
-  "remarks": "⚡@Takv2ray_org | DE 🇩🇪",
+  "remarks": "⚡@TAKV2RAYNET | DE 🇩🇪",
   "log": {
     "loglevel": "warning"
   },
@@ -776,7 +776,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "⚡@Takv2ray_org | YT 🇩🇪",
+  "remarks": "⚡@TAKV2RAYNET | YT 🇩🇪",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [
@@ -877,7 +877,7 @@
   }
 },
 {
-  "remarks": "⚡@Takv2ray_org | NL 🇳🇱",
+  "remarks": "⚡@TAKV2RAYNET | NL 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -1042,7 +1042,7 @@
   "stats": {}
 },
 {
-  "remarks": "⚡@Takv2ray_org | NL 🇳🇱",
+  "remarks": "⚡@TAKV2RAYNET | NL 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -1207,7 +1207,7 @@
   "stats": {}
 },
 {
-  "remarks": "⚡@Takv2ray_org | IPv6 🇳🇱",
+  "remarks": "⚡@TAKV2RAYNET | IPv6 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -1372,7 +1372,7 @@
   "stats": {}
 },
 {
-  "remarks": "⚡@Takv2ray_org | IPv6 🇳🇱",
+  "remarks": "⚡@TAKV2RAYNET | IPv6 🇳🇱",
   "log": {
     "loglevel": "warning"
   },
@@ -1690,7 +1690,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "⚡@Takv2ray_org | IR 🇮🇷",
+  "remarks": "⚡@TAKV2RAYNET | IR 🇮🇷",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [
