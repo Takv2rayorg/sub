@@ -1,4 +1,3 @@
-[
 {
   "dns": {
     "hosts": {
@@ -4158,7 +4157,7 @@
       "streamSettings": {
         "network": "ws",
         "security": "tls",
-        "sockopt": {
+         "sockopt": {
           "dialerProxy": "fragment"
         },
         "tlsSettings": {
@@ -5442,4 +5441,1196 @@
             "address": "162.159.134.76",
             "port": 443,
             "users": [
-]
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-149"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.16.248.181",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-150"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.64.94.111",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-151"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.159.233.18",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-152"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "198.41.209.182",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-153"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.16.140.155",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-154"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.19.144.232",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-155"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.17.62.164",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-156"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.18.108.237",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-157"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.17.172.97",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-158"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.122.62",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-159"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.126.137",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-160"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.159.129.196",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-161"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.153.205",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-162"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.205.146",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-163"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "198.41.209.243",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-164"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.141.191",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-165"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.157.2",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-166"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.159.236.240",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-167"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "190.93.247.0",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-168"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.159.253.172",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-169"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.17.218.85",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-170"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.18.110.255",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-171"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.17.64.252",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-172"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.19.166.11",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-173"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.19.122.38",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-174"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.159.239.221",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-175"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.120.57",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-176"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "[2606:4700:3020:d8bd:165e:d989:70ce:edd2]",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-177"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.157.173",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "00c82fcb-2c67-465d-8432-6743a1593efa",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": ["http/1.1"],
+          "fingerprint": "firefox",
+          "serverName": "BalleRiNa.PAGES.dev"
+        },
+        "wsSettings": {
+          "host": "ballerina.pages.dev",
+          "path": "/ApiCallDiana/Response?ed=2560"
+        }
+      },
+      "tag": "prox-178"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIPv4v6",
+        "fragment": {
+          "interval": "1-2",
+          "length": "10-30",
+          "packets": "tlshello"
+        }
+      },
+      "tag": "fragment"
+    },
+    {
+      "protocol": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "remarks": "@TAKV2RAYNET | Life Time 🇩🇪",
+  "routing": {
+    "balancers": [
+      {
+        "fallbackTag": "prox-2",
+        "selector": ["prox"],
+        "strategy": {
+          "type": "leastPing"
+        },
+        "tag": "all"
+      }
+    ],
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": ["dns-in"],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "inboundTag": ["socks-in"],
+        "outboundTag": "dns-out",
+        "port": 53,
+        "type": "field"
+      },
+      {
+        "balancerTag": "all",
+        "inboundTag": ["remote-dns"],
+        "type": "field"
+      },
+      {
+        "inboundTag": ["dns"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": ["geosite:private"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": ["geoip:private"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": ["geosite:category-ads-all", "geosite:category-ads-ir"],
+        "outboundTag": "block",
+        "type": "field"
+      },
+      {
+        "domain": ["geosite:category-ir"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": ["geoip:ir"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "network": "udp",
+        "outboundTag": "block",
+        "type": "field"
+      },
+      {
+        "balancerTag": "all",
+        "network": "tcp",
+        "type": "field"
+      }
+    ]
+  },
+  "stats": {}
+}
