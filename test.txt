@@ -6561,7 +6561,7 @@
       "statsOutboundUplink": true
     }
   },
-  "remarks": "@TAKV2RAYNET | Life Time 🇩🇪",
+  "remarks": "⚡@TAKV2RAYNET | Life Time 🇩🇪",
   "routing": {
     "balancers": [
       {
@@ -6636,3 +6636,4 @@
   "stats": {}
 }
 ]
+
