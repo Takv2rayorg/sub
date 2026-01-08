@@ -155,7 +155,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "🔄 لطفاً دو هفته یک‌ بار آپدیت بزنید⚡✅",
+  "remarks": "مراقب خودتون باشید ♥️",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [
@@ -329,16 +329,16 @@
   ],
   "outbounds": [
     {
-      "tag": "⚡️@TAKV2RAYNET | KZ 🇰🇿",
+      "tag": "⚡️@TAKV2RAYNET | FR 🇫🇷",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "166.1.131.2",
+            "address": "130.49.77.10",
             "port": 8443,
             "users": [
               {
-                "id": "eb536803-8533-42c9-2939-d5dacd3a0046",
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
                 "encryption": "none",
                 "flow": ""
               }
@@ -354,10 +354,10 @@
         },
         "security": "reality",
         "realitySettings": {
-          "serverName": "www.microsoft.com",
+          "serverName": "update.microsoft.com",
           "fingerprint": "chrome",
           "show": false,
-          "publicKey": "UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04",
+          "publicKey": "pd7ujYvrLsVhoEia4dhxPqmpAuapnezqMilXBSDIfgk",
           "shortId": "",
           "spiderX": ""
         }
@@ -373,7 +373,7 @@
     }
   ],
   "stats": {},
-  "remarks": "⚡️@TAKV2RAYNET | KZ 🇰🇿"
+  "remarks": "⚡️@TAKV2RAYNET | FR 🇫🇷"
 },
 {
   "log": {
@@ -449,16 +449,16 @@
   ],
   "outbounds": [
     {
-      "tag": "⚡️@TAKV2RAYNET | KZ 🇰🇿",
+      "tag": "⚡️@TAKV2RAYNET | FR 🇫🇷",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "166.1.131.2",
-            "port": 443,
+            "address": "130.49.77.10",
+            "port": 993,
             "users": [
               {
-                "id": "eb536803-8533-42c9-2939-d5dacd3a0046",
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
                 "encryption": "none",
                 "flow": "xtls-rprx-vision"
               }
@@ -478,7 +478,7 @@
           "serverName": "speed.cloudflare.com",
           "fingerprint": "chrome",
           "show": false,
-          "publicKey": "UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04",
+          "publicKey": "pd7ujYvrLsVhoEia4dhxPqmpAuapnezqMilXBSDIfgk",
           "shortId": "",
           "spiderX": ""
         }
@@ -494,7 +494,7 @@
     }
   ],
   "stats": {},
-  "remarks": "⚡️@TAKV2RAYNET | KZ 🇰🇿"
+  "remarks": "⚡️@TAKV2RAYNET | FR 🇫🇷"
 },
 {
   "log": {
@@ -570,16 +570,16 @@
   ],
   "outbounds": [
     {
-      "tag": "⚡️@TAKV2RAYNET | ES 🇪🇸",
+      "tag": "⚡️@TAKV2RAYNET | DE 🇩🇪",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "166.1.131.6",
+            "address": "77.81.65.10",
             "port": 443,
             "users": [
               {
-                "id": "eb536803-8533-42c9-2939-d5dacd3a0046",
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
                 "encryption": "none",
                 "flow": "xtls-rprx-vision"
               }
@@ -599,7 +599,7 @@
           "serverName": "speed.cloudflare.com",
           "fingerprint": "chrome",
           "show": false,
-          "publicKey": "_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE",
+          "publicKey": "SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI",
           "shortId": "",
           "spiderX": ""
         }
@@ -615,7 +615,7 @@
     }
   ],
   "stats": {},
-  "remarks": "⚡️@TAKV2RAYNET | ES 🇪🇸"
+  "remarks": "⚡️@TAKV2RAYNET | DE 🇩🇪"
 },
 {
   "log": {
@@ -691,16 +691,258 @@
   ],
   "outbounds": [
     {
-      "tag": "⚡️@TAKV2RAYNET | ES 🇪🇸",
+      "tag": "⚡️@TAKV2RAYNET | DE 🇩🇪",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "166.1.131.6",
+            "address": "77.81.65.10",
+            "port": 993,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | DE 🇩🇪"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | RU 🇷🇺",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "147.78.180.10",
+            "port": 443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | RU 🇷🇺"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | RU 🇷🇺",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "147.78.180.10",
             "port": 8443,
             "users": [
               {
-                "id": "eb536803-8533-42c9-2939-d5dacd3a0046",
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
                 "encryption": "none",
                 "flow": ""
               }
@@ -719,7 +961,7 @@
           "serverName": "www.microsoft.com",
           "fingerprint": "chrome",
           "show": false,
-          "publicKey": "_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE",
+          "publicKey": "Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0",
           "shortId": "",
           "spiderX": ""
         }
@@ -735,6 +977,1336 @@
     }
   ],
   "stats": {},
-  "remarks": "⚡️@TAKV2RAYNET | ES 🇪🇸"
+  "remarks": "⚡️@TAKV2RAYNET | RU 🇷🇺"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | RU 🇷🇺",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "147.78.180.10",
+            "port": 993,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | RU 🇷🇺"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | US 🇺🇸 ",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "193.56.20.10",
+            "port": 8443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+          "serviceName": "TunService",
+          "authority": ""
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "www.microsoft.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "wl7R7v8MbaC_Nh-_FNf1DoFXHDquVRtfX2Z20oXL6Q8",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | US 🇺🇸 "
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | US 🇺🇸 ",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "193.56.20.10",
+            "port": 443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "wl7R7v8MbaC_Nh-_FNf1DoFXHDquVRtfX2Z20oXL6Q8",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | US 🇺🇸 "
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | US 🇺🇸 ",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "193.56.20.10",
+            "port": 993,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "wl7R7v8MbaC_Nh-_FNf1DoFXHDquVRtfX2Z20oXL6Q8",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | US 🇺🇸 "
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | IN 🇮🇳",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "213.232.123.10",
+            "port": 443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | IN 🇮🇳"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | IN 🇮🇳",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "5.181.171.2",
+            "port": 443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | IN 🇮🇳"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | IN 🇮🇳",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "213.232.123.10",
+            "port": 993,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | IN 🇮🇳"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | PK 🇵🇰",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "103.175.79.2",
+            "port": 443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | PK 🇵🇰"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | NL 🇳🇱",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.148.233.10",
+            "port": 443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | NL 🇳🇱"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | NL 🇳🇱",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "155.212.37.10",
+            "port": 443,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | NL 🇳🇱"
+},
+{
+  "log": {
+    "loglevel": "warning"
+  },
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "tag": "dns_out"
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "domain": [
+          "regexp:.*\\.ir",
+          "domain:ir",
+          "geosite:private"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:ir",
+          "geoip:private"
+        ],
+        "outboundTag": "direct"
+      }
+    ]
+  },
+  "policy": {
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "⚡️@TAKV2RAYNET | NL 🇳🇱",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.148.233.10",
+            "port": 993,
+            "users": [
+              {
+                "id": "8fe6d85d-ee80-2534-cdcd-7d1043288846",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "speed.cloudflare.com",
+          "fingerprint": "chrome",
+          "show": false,
+          "publicKey": "eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc",
+          "shortId": "",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "stats": {},
+  "remarks": "⚡️@TAKV2RAYNET | NL 🇳🇱"
 }
 ]
